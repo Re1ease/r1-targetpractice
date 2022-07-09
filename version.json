@@ -1,4 +1,4 @@
 {
-  "version": "1.0.0",
-  "note": ""
+  "version": "1.0.1",
+  "note": "Added config for if your core has a different name."
 }
